@@ -7,10 +7,10 @@ organized in a structured manner. The BMS is a critical component of modern bank
 infrastructure, as it enables banks to efficiently manage their operations and provide excellent
 customer service.
 
-The BMS is designed to support various banking functions, including customer information
+We designed BMS to support various banking functions, including customer information
 management, account management, transaction processing, and reporting. The system is
 responsible for managing and organizing vast amounts of data related to banking operations,
-such as customer information, account balances, transaction histories.
+such as customer information, account balances, transaction histories. We achieved this by extensive use of PL/SQL to Create a user friendly environment to Add/Update/Delete information/data in our tables.
 
 
 ## ER Diagram
@@ -24,3 +24,6 @@ such as customer information, account balances, transaction histories.
 
 ### 2/3NF
 ![3nf table](Images/ER_to_Table%20(3NF).png)
+
+Credits :- [Rushil](https://github.com/Rushil08), [Nischay](https://github.com/MoryaNischay), [Swapnil](https://github.com/Swapnil022004) and [Aditya](https://github.com/AdityaTomar-AT) 
+
